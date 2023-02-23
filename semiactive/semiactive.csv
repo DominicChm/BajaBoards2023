@@ -1,0 +1,6 @@
+"Qty","Value","Reference(s)","LibPart","DPN","MPN"
+"3","C","C1, C2, C3","Device:C","",""
+"3","IN-PI42TASPRPGPB","D1, D2, D3","IN-PI42TASPRPGPB:IN-PI42TASPRPGPB","","IN-PI42TASPRPGPB"
+"3","WS2812B","D4, D5, D6","LED:WS2812B","1568-COM-16347CT-ND",""
+"1","5223002-2","J4","semiactive-altium-import:0_mirrored_5223002-2","",""
+"1","Teensy4.1","U1","teensy:Teensy4.1","",""
