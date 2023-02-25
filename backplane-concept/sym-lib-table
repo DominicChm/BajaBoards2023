@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "9-1734774-5")(type "KiCad")(uri "${KIPRJMOD}/lib/9-1734774-5.kicad_sym")(options "")(descr ""))
+  (lib (name "backplane-concept-altium-import")(type "KiCad")(uri "${KIPRJMOD}/backplane-concept-altium-import.kicad_sym")(options "")(descr ""))
+)
