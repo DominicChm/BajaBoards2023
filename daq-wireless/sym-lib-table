@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "5223004-2")(type "KiCad")(uri "D:/Baja/DomBoards2023/semiactive/lib/5223004-2.kicad_sym")(options "")(descr ""))
+  (lib (name "IN-PI42TASPRPGPB")(type "KiCad")(uri "D:/Baja/DomBoards2023/semiactive/lib/IN-PI42TASPRPGPB.kicad_sym")(options "")(descr ""))
+)

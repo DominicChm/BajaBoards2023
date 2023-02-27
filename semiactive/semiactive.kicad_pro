@@ -456,7 +456,7 @@
     "netclass_patterns": [
       {
         "netclass": "Power",
-        "pattern": "3.3V"
+        "pattern": "+3V3"
       },
       {
         "netclass": "Power",
