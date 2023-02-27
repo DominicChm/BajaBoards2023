@@ -55,7 +55,18 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|111779000|53202000|4f1202ce-241e-4881-b5f4-0cff43da4983|c5be8360-42c9-45a2-95ad-134a441814b3",
+        "hole_clearance|111779000|53202000|4f1202ce-241e-4881-b5f4-0cff43da4983|ce220e7d-0873-4335-82b2-1408181473fc",
+        "hole_clearance|111979000|53202000|4f1202ce-241e-4881-b5f4-0cff43da4983|12be3a47-0086-4698-9184-4816364a52a6",
+        "hole_clearance|111979000|53202000|4f1202ce-241e-4881-b5f4-0cff43da4983|40f05c05-3605-404b-a1e9-b5ece226f891",
+        "hole_clearance|117379000|53202000|5976f93b-c132-43c1-8054-6101c863c553|1fb55178-2d77-4a2e-98f5-c7625cbda8d5",
+        "hole_clearance|117379000|53202000|5976f93b-c132-43c1-8054-6101c863c553|a9266eeb-cd25-423c-9300-97eeb57e3182",
+        "hole_clearance|117579000|53202000|5976f93b-c132-43c1-8054-6101c863c553|86d62271-be30-4366-8806-e6bb8ddcded9",
+        "hole_clearance|117579000|53202000|5976f93b-c132-43c1-8054-6101c863c553|e8e7ed7b-c5e9-4982-8aec-9396e5ff1365",
+        "lib_footprint_mismatch|130048000|53515750|e63f060d-c6dd-4dc9-9dce-a0e1705bc5bd|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|168660034|53985874|2fdca0ce-afdd-4a04-ab16-d128de8f2aeb|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -114,13 +125,13 @@
         "min_clearance": 0.0,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.0,
-        "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
+        "min_hole_clearance": 0.32999999999999996,
+        "min_hole_to_hole": 0.254,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.7999999999999999,
+        "min_text_height": 0.5,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.0,
