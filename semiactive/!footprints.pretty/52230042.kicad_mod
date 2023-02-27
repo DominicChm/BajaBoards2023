@@ -127,4 +127,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
+  (model "D:/Baja/DomBoards2023/semiactive/!footprints.pretty/c-5223004-2-a-3d.stp"
+    (offset (xyz -11 -21.5 5.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
