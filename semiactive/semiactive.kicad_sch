@@ -1929,7 +1929,7 @@
     (property "Value" "D" (at 232.41 101.6 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 229.235 99.695 0)
+    (property "Footprint" "Diode_SMD:D_SMA" (at 229.235 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 229.235 99.695 0)
