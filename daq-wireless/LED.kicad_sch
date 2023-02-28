@@ -737,7 +737,7 @@
     (property "Reference" "D3" (at 86.995 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "AUX" (at 86.995 63.5 0)
+    (property "Value" "BATT" (at 86.995 63.5 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "!footprints:LED_IN-PI42TASPRPGPB" (at 86.995 73.025 0)
