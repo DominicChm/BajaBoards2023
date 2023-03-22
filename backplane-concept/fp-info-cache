@@ -1,4 +1,4 @@
-21453196196884677
+21461593313085583
 !footprints
 9-1734774-5
 
@@ -7,12 +7,47 @@
 98
 98
 !footprints
+10018784-10200TLF
+
+
+0
+38
+38
+!footprints
+64734271
+6473427-1-2
+Connector
+0
+63
+63
+!footprints
+ATA6561-GBQW-N
+
+
+0
+9
+9
+!footprints
 CONN_10018784-10201TLF
 
 
 0
 64
 64
+!footprints
+NAU7802SGI
+
+
+0
+16
+16
+!footprints
+SPARKFUN_SEN-13879
+
+
+0
+10
+10
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
