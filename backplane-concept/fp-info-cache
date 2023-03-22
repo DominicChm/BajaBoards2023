@@ -1,4 +1,4 @@
-21464952390476001
+21466631897490992
 !footprints
 9-1734774-5
 
@@ -62,6 +62,13 @@ SPARKFUN_SEN-13879
 0
 10
 10
+!footprints
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
