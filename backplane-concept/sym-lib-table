@@ -7,4 +7,6 @@
   (lib (name "SEN-13879")(type "KiCad")(uri "${KIPRJMOD}/lib/SEN-13879.kicad_sym")(options "")(descr ""))
   (lib (name "6473427-1")(type "KiCad")(uri "${KIPRJMOD}/lib/6473427-1.kicad_sym")(options "")(descr ""))
   (lib (name "ATA6561")(type "KiCad")(uri "${KIPRJMOD}/lib/ATA6561.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS564247DRLR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS564247DRLR.kicad_sym")(options "")(descr ""))
+  (lib (name "AOZ6605PI-1")(type "KiCad")(uri "${KIPRJMOD}/lib/AOZ6605PI-1.kicad_sym")(options "")(descr ""))
 )

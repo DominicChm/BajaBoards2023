@@ -1,4 +1,4 @@
-21461593313085583
+21464952390476001
 !footprints
 9-1734774-5
 
@@ -11,8 +11,8 @@
 
 
 0
-38
-38
+36
+36
 !footprints
 64734271
 6473427-1-2
@@ -20,6 +20,13 @@ Connector
 0
 63
 63
+!footprints
+AOZ6605PI-1
+
+
+0
+9
+9
 !footprints
 ATA6561-GBQW-N
 
@@ -41,6 +48,13 @@ NAU7802SGI
 0
 16
 16
+!footprints
+SOTFL50P160X60-6N
+DRL0006A
+Integrated Circuit
+0
+6
+6
 !footprints
 SPARKFUN_SEN-13879
 
