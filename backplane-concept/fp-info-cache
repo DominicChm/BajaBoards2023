@@ -1,4 +1,11 @@
-21584506218392596
+21592904311931020
+!footprints
+5-5530843-3-EDGE
+
+
+0
+34
+34
 !footprints
 9-1734774-5
 
@@ -14,12 +21,19 @@
 36
 36
 !footprints
+19676571
+1-967657-1-2
+Connector
+0
+4
+4
+!footprints
 64734271
 6473427-1-2
 Connector
 0
-63
-63
+60
+60
 !footprints
 AOZ6605PI-1
 
@@ -42,9 +56,30 @@ CONN_10018784-10201TLF
 64
 64
 !footprints
+JMP_Small
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+!footprints
 NAU7802SGI
 
 
+0
+16
+16
+!footprints
+SOIC127P1030X265-16N
+DW0016A
+Integrated Circuit
+0
+16
+16
+!footprints
+SOP64P600X175-16N
+DBQ0016A
+Integrated Circuit
 0
 16
 16

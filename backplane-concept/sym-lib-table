@@ -9,4 +9,7 @@
   (lib (name "ATA6561")(type "KiCad")(uri "${KIPRJMOD}/lib/ATA6561.kicad_sym")(options "")(descr ""))
   (lib (name "TPS564247DRLR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS564247DRLR.kicad_sym")(options "")(descr ""))
   (lib (name "AOZ6605PI-1")(type "KiCad")(uri "${KIPRJMOD}/lib/AOZ6605PI-1.kicad_sym")(options "")(descr ""))
+  (lib (name "ISO6760DWR")(type "KiCad")(uri "${KIPRJMOD}/lib/ISO6760DWR.kicad_sym")(options "")(descr ""))
+  (lib (name "1-967657-1")(type "KiCad")(uri "${KIPRJMOD}/lib/1-967657-1.kicad_sym")(options "")(descr ""))
+  (lib (name "ISO7740DBQ")(type "KiCad")(uri "${KIPRJMOD}/lib/ISO7740DBQ.kicad_sym")(options "")(descr ""))
 )
